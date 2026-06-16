@@ -1,4 +1,4 @@
-# Analyst-Lab
+# Analyst-Lab Netflix Analysis
 A comprehensive data cleaning and exploratory data analysis project on the Netflix Titles and Online Retail dataset using SQL and Power BI, highlighting data quality improvements and actionable insights.
 
 # Netflix Data Cleaning and Exploratory Data Analysis
